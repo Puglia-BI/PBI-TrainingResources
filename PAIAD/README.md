@@ -10,6 +10,10 @@
          2. C:/PAIAD/PAIAD Lab Sheets
 3. . Ensure that there is an excel file named Machine-Order-Data.xlsx at C:/PAIAD
 
+### Get the Sample
+
+Download [Training Resources for a Deep Dive in Power Apps](/PAIAD/TrainingResources_1_0_0_3.zip)
+
 ## Login & Create a Profile in Your Browser
 
 1. Use your favorite browser and create a new profile
