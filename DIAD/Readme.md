@@ -14,7 +14,7 @@ The following prerequisites and setup must be done for successful completion of 
 You must download the Power BI Content: Create a folder called DIAD on the C drive of your local computer.
 
 - Copy all contents from the folder called Dashboard in a Day Assets to the DIAD folder you just created (C:\DIAD).
-- Download from here: <https://github.com/Puglia-BI/TrainingMaterial>
+- [Download from here](DIAD.zip)
 The Path to the 4 folders should be the following:
 
 ```

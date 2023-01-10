@@ -8,7 +8,7 @@
      1. An example of the content is
          1. C:/PAIAD/Completed for students
          2. C:/PAIAD/PAIAD Lab Sheets
-3. . Ensure that there is an excel file named Mchine-Order-Data.xlsx at C:/PAIAD
+3. . Ensure that there is an excel file named Machine-Order-Data.xlsx at C:/PAIAD
 
 ## Login & Create a Profile in Your Browser
 

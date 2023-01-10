@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		
+			"[markdown]": {
+				"editor.fontSize": 16,
+				"editor.fontFamily": "Hack"
+			}
+		
+}
+}
