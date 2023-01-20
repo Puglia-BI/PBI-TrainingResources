@@ -18,7 +18,7 @@ Download [Training Resources for a Deep Dive in Power Apps](/PAIAD/TrainingResou
 
 1. Use your favorite browser and create a new profile
 2. Bookmark make.powerapps.com in the new profile
-3. Based on user, you will sign in to microsoft based on the table provided by trainer
+3. Based on user, you will sign in to microsoft based on the table provided by Puglia BI prior to training
 4. Choose from the top right of the power app site environment →
 5. Choose Dev - labadmin[YOUR NUMBER] based on user name:
 
