@@ -11,10 +11,11 @@ The following prerequisites and setup must be done for successful completion of 
 
 ## Downloading & Using the Content
 
-You must download the Power BI Content: Create a folder called DIAD on the C drive of your local computer.
+You must download the Power BI Content: 
 
-- Copy all contents from the folder called Dashboard in a Day Assets to the DIAD folder you just created (C:\DIAD).
-- [Download from here](DIAD.zip)
+Create a folder called DIAD on the C drive of your local computer.
+
+- [Download the DIAD.zip](DIAD.zip) and exptract it to the new DIAD folder uou created (C:\DIAD).
 The Path to the 4 folders should be the following:
 
 ```
