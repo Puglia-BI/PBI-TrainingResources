@@ -23,6 +23,4 @@ C:\DIAD\
 
 ## Accessing Power BI Service
 
-A good portion of the day will be spent in utilizing Power BI Service. Ensure you can access and log-in to Power BI online using your Office 365 credentials. 
-
 Ensure that you can access the following <https://app.powerbi.com/groups/me/list>
